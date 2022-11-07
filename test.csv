@@ -1,0 +1,69 @@
+﻿SN-FI,FI Code,Name of Financial Institution,Type of Relationship,Reg_AhafoRegion,Reg_Ashanti,Reg_BonoEast,Reg_Bono,Reg_Central,Reg_Eastern,Reg_GreaterAccra,Reg_NorthEast,Reg_Northern,Reg_Oti,Reg_Savannah,Reg_UpperEast,Reg_UpperWest,Reg_Volta,Reg_WesternNorth,Reg_Western,Type of Financial Institution,Other type Financial Institution,Agric,Ag_Portfolio,Agbiz_IR (Min),Agbiz_IR (Max),Agbiz_Tenor (Min),Agbiz_Tenor (Max),Agbiz_TA (Min),Agbiz_TA (Max),Agbiz_Desk,Contact_Name,Contact_Email,Contact_Telephone,MoU
+1,PFI001SBG,Stanbic Bank Ghana Limited,Participating Financial Institution,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commercial Bank,,Yes,15.00%,18.00%,22%,,60,30,90,Yes,Yaw Njorgnab,njorgnaby@stanbic.com.gh,+233-249143703,Yes
+2,PFI002SPM,Success For People Microfinance,Participating Financial Institution,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Microfinance Institution,,Yes,60.00%,,,3,6,2,3,No,Victoria Antwi,arabavickie@hotmail.com,+233-244628473,Yes
+3,PFI003SVM,Summit Vision Microfinance Services,Participating Financial Institution,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Microfinance Institution,,Yes,32.00%,30.00%,42%,4,12,30,,Yes,Collins Adu-Ntim,collinsaduntim42@gmail.com,+233-20734038,Yes
+4,PFI004TCC,Tumu Cooperative Credit Union,Participating Financial Institution,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Credit Union,,Yes,70.00%,19.50%,,10,60,5,21,Yes,Aisha Batong-Hor,,,Yes
+5,PFI005SAS,Sinapi Aba Savings and Loans Limited,Participating Financial Institution,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Savings and Loans,,Yes,28.00%,25.00%,45%,5,48,3,5,Yes,Joyce Owusu Dabo,jdabo@sinapiaba.com,+233-201850006,Yes
+6,PFI006TRB,Toende Rural Bank Limited,Participating Financial Institution,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Rural and Community Bank,,Yes,32.00%,28.00%,,6,12,14,,Yes,Lincoln Winimi Peedah,blesslincoln@gmail.com,+233-549972710/+233-201331473,Yes
+7,PFI007KRB,Kintampo Rural Bank Limited,Participating Financial Institution,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Rural and Community Bank,,Yes,14.78%,26.00%,,12,,30,,,Martin Mensah,martin.mensah@kintamporuralbank.org,+233-501255080,Yes
+8,PFI008CAR,CARD FNGO,Participating Financial Institution,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Financial NGOs,,Yes,100.00%,36.00%,,8,,1,5,Yes,Naresh Shukla,cardghana@yahoo.com,+233-244716849,Yes
+9,PFI009BMG,Bangmarigu Community Bank,Participating Financial Institution,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Rural and Community Bank,,Yes,17.00%,28.00%,,6,,14,,Yes,George Tii Pugera,georgetii@yahoo.com,,Yes
+10,PFI010TIZ,Tizaa Rural Bank Limited,Participating Financial Institution,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Rural and Community Bank,,Yes,35.00%,30.00%,,12,24,30,,Yes,Ibrahim A. Mumin,ibrahimmumin@gmail.com,+233-244445855,Yes
+11,PFI011LGS,Letshego Ghana Savings & Loans PLC,Participating Financial Institution,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Savings and Loans,,Yes,,36.00%,,6,60,30,,Yes,Justice Sagoe,justiceS@letshego.com,+233-577707700,Yes
+12,PFI012ADB,ADB Bank,Participating Financial Institution,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commercial Bank,,Yes,23.00%,9.50%,23%,12,60,30,60,Yes,Kwame Asiedu Attrams,kattrams@agricbank.com,+233-244281927,Yes
+13,PFI013BCR,Builsa Community Bank,Participating Financial Institution,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Rural and Community Bank,,Yes,32.00%,27.00%,,9,12,180,270,Yes,Richard Awombadek Ajuik,ajuikrichard@yahoo.com,+233-549778638,Yes
+14,PFI014BSF,Bessfa Rural Bank Limited,Participating Financial Institution,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Rural and Community Bank,,Yes,47.00%,27.00%,,9,24,14,,Yes,Hayatudeen Awudu Ibrahim,"bessfarb@yahoo.com
+awuduhayatudeen@yahoo.com",+233-382094048/ 0242973741,Yes
+15,PFI015ABG,ABSA Bank Ghana Limited,Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,Yes
+16,PFI016ECO,Ecobank Ghana Limited,Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,Yes
+17,PFI017FBG,Fidelity Bank Ghana Limited,Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,
+18,PFI018SCB,Standard Chattered Bank Limited,Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,
+19,NFI019RBG,Republic Bank Ghana PLC,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Rural and Community Bank,,,,,,,,,,,,,,
+20,NFI020FBN,FBN Bank Ghana,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,
+21,NFI021BAG,Bank of Africa Ghana,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,
+22,NFI022BZL,Bonzali Rural Bank Limited,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Rural and Community Bank,,,,,,,,,,,,,,
+23,NFI023BRG,Borimanga Rural Bank,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Rural and Community Bank,,,,,,,,,,,,,,
+24,NFI024GHN,Global Hand on Natural Environmental Care,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Others,,,,,,,,,,,,,,
+25,NFI025JDO,Jaksally Development Organisation,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Others,,,,,,,,,,,,,,
+26,NFI026MCB,Maltaaba Community Bank Limited,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Rural and Community Bank,,,,,,,,,,,,,,
+27,NFI027NDM,Nandom Rural Bank Limited,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Rural and Community Bank,,,,,,,,,,,,,,
+28,NFI028SRR,Sissala Rural Bank Limited,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Rural and Community Bank,,,,,,,,,,,,,,
+29,NFI029WTF,WHAT Foundation and SUNGIBAALA Financial NGO,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Financial NGOs,,,,,,,,,,,,,,
+30,NFI030LAR,Lawra Area Rural Bank,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Rural and Community Bank,,,,,,,,,,,,,,
+31,NFI031CAL,CalBank PLC,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,
+32,NFI032GCB,GCB Bank Limited,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,
+33,NFI033GTB,GT Bank Ghana Limited,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,
+34,NFI034THP,The Hunger Project Ghana,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Others,,,,,,,,,,,,,,
+35,NFI035ADV,Advans Ghana,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Microfinance Institution,,,,,,,,,,,,,,
+36,NFI036GCE,Ghana Commodity Exchange,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Ghana Alternative Market (GAX),,,,,,,,,,,,,,
+37,NFI037GIR,Ghana Incentive-Based Risk-Sharing System for Agricultural Lending (GIRSAL),Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Others,,,,,,,,,,,,,,
+38,NFI038WGV,Wangara Green Venture Capital Company Limited,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Microfinance Institution,,,,,,,,,,,,,,
+39,NFI039ZBG,Zenith Bank Ghana Limited,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,
+40,NFI040ALI,Alitheia IDF,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Impact Investors,,,,,,,,,,,,,,
+41,NFI041FNB,First National Bank,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,
+42,NFI042BSL,Best Point Savings and Loans,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Savings and Loans,,,,,,,,,,,,,,
+43,NFI043AGL,AFCL Ghana Limited,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Impact Investors,,,,,,,,,,,,,,
+44,NFI044SAI,Samurai Incubate,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Impact Investors,,,,,,,,,,,,,,
+45,NFI045EVC,EchoVC,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Impact Investors,,,,,,,,,,,,,,
+46,NFI046NKA,Norrsken Accelarator,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Impact Investors,,,,,,,,,,,,,,
+47,NFI047OBK,Obapack Limited,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Impact Investors,,,,,,,,,,,,,,
+48,NFI048RTC,Root Capital,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Impact Investors,,,,,,,,,,,,,,
+49,NFI049SUN,Sung Foundation,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Others,,,,,,,,,,,,,,
+50,NFI050LNK,Links Ghana,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Others,,,,,,,,,,,,,,
+51,NFI051NRB,Naara Rural Bank,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Rural and Community Bank,,,,,,,,,,,,,,
+52,NFI052OMB,OmniBSIC Bank,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,
+53,NFI053ACB,Access Bank (Ghana) Plc,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,
+54,NFI054ARA,Acumen Resilient Agriculture Fund,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Impact Investors,,,,,,,,,,,,,,
+55,NFI055CBG,Consolidated Bank of Ghana,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,
+56,NFI058ABC,The Agri-Business Capital Fund,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Impact Investors,,,,,,,,,,,,,,
+57,NFI059ABI,ABII National,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Savings and Loans,,,,,,,,,,,,,,
+58,NFI060CBG,Consolidated Bank Ghana,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,
+59,NFI061GAI,Ghana Agricultural Insurance Pool,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Others,,,,,,,,,,,,,,
+60,STP001RDF,RDF Ghana LBG,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Others,,,,,,,,,,,,,,
+61,NFI062SGG,Societe Generale Ghana,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,
+62,NFI064FMO,FMO,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Venture Capital/Private Equity,,,,,,,,,,,,,,
+63,NFI065RBO,Rabobank,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Commercial Bank,,,,,,,,,,,,,,
+64,NFI066MLF,Mulago Foundation ,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Financial NGOs,,,,,,,,,,,,,,
+65,NFI067NTF,Netri Foundatio,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Financial NGOs,,,,,,,,,,,,,,
+66,NFI068DEG,DEG,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Impact Investors,,,,,,,,,,,,,,
+67,NFI069CEN,Ceniarth,Non-Participating Financial Institution,,,,,,,,,,,,,,,,,Impact Investors,,,,,,,,,,,,,,
